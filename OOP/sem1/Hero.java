@@ -1,6 +1,6 @@
 package OOP.sem1;
 
-/*
+/**
  * Описание структуры класса
  * <p>
  * Hero - Абстрактный базовый класс, описывающий самые общие черты героев
@@ -59,6 +59,10 @@ public abstract class Hero implements GameI {
         this.nameHero = nameHero;
         this.position = new Vector2(posX, posY);
         this.initiative = initiative;
+    }
+    public void getDamage(int damage){
+        health -= damage;
+        if (health < 0) health = 0;
     }
 
     /**

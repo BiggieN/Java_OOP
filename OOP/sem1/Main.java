@@ -27,9 +27,9 @@ public class Main {
         });
         for (Hero h: twoCommands) {
             if (heroesBlack.contains(h)){
-                h.gameStep(heroesWhite);
+                h.gameStep(heroesWhite, heroesBlack);
             } else {
-                h.gameStep(heroesBlack);
+                h.gameStep(heroesBlack, heroesWhite);
             }
         }
     }

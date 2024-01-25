@@ -89,17 +89,30 @@ public abstract class Hero implements GameI {
      * @return - ближайший вражеский герой (Hero)
      */
     public Hero findNearestEnemy(ArrayList<Hero> enemys) {
-        Hero heroTMP = enemys.get(0);
+        Hero heroTMP = null;
         for (int i = 0; i < enemys.size(); i++) {
-            if (this.position.rangeEnemy(enemys.get(i).position) < this.position.rangeEnemy(heroTMP.position)) {
-                heroTMP = enemys.get(i);
+            if (enemys.get(i).health>0){
+                if (heroTMP == null || this.position.rangeEnemy(enemys.get(i).position) < this.position.rangeEnemy(heroTMP.position)) {
+                    heroTMP = enemys.get(i);
+                }
             }
+
         }
         return heroTMP;
     }
+
+    public int[] getCoords() {
+        return new int[]{position.posX, position.posY};
+    }
+
     public int getInitiative(){
         return initiative;
     }
+
+    public int getHp() {
+        return health;
+    }
+    public abstract String getInfo();
 }
 
 

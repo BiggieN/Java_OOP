@@ -101,6 +101,8 @@ public abstract class Hero implements GameI {
         return heroTMP;
     }
 
+    public abstract String getType();
+
     public int[] getCoords() {
         return new int[]{position.posX, position.posY};
     }

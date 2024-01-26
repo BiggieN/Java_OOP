@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="699c85b8-8a1c-4c59-bbc9-cf97e6d431d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/sem1/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/sem1/Hero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/sem1/Heroes/Crossbower.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/sem1/Heroes/Crossbower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/sem1/Heroes/Monk.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/sem1/Heroes/Monk.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/sem1/Heroes/Pikeman.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/sem1/Heroes/Pikeman.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/sem1/Heroes/Rogue.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/sem1/Heroes/Rogue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/sem1/Heroes/Sniper.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/sem1/Heroes/Sniper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/sem1/Heroes/Wizard.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/sem1/Heroes/Wizard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/sem1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/sem1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/sem1/TypeOfHeroes/HealerHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/sem1/TypeOfHeroes/HealerHero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

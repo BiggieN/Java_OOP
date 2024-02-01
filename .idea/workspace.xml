@@ -5,16 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="699c85b8-8a1c-4c59-bbc9-cf97e6d431d1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/sem1/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/sem1/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/sem1/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/sem1/TypeOfHeroes/Hero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/sem1/Heroes/Crossbower.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/sem1/Heroes/Crossbower.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/sem1/Heroes/Pikeman.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/sem1/Heroes/Pikeman.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/sem1/Heroes/Rogue.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/sem1/Heroes/Rogue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/sem1/Heroes/Sniper.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/sem1/Heroes/Sniper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/sem1/Interfaces/GameI.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/sem1/Interfaces/GameI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/sem1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/sem1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/sem1/TypeOfHeroes/HealerHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/sem1/TypeOfHeroes/HealerHero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/sem1/TypeOfHeroes/MeleeHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/sem1/TypeOfHeroes/MeleeHero.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/sem1/TypeOfHeroes/Peasant.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/sem1/TypeOfHeroes/Peasant.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OOP/sem1/TypeOfHeroes/RangeHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/sem1/TypeOfHeroes/RangeHero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP/sem1/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/sem1/View.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,16 +47,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

@@ -1,5 +1,7 @@
 package OOP.sem1;
 
+import OOP.sem1.TypeOfHeroes.Hero;
+
 import java.util.Collections;
 
 public class View {

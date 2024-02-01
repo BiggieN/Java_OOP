@@ -1,33 +1,9 @@
-package OOP.sem1;
-
-/**
- * Описание структуры класса
- * <p>
- * Hero - Абстрактный базовый класс, описывающий самые общие черты героев
- * Каждый элемент базового класса имеет следующие поля:
- * - имя (String nameHero),
- * - здоровье (int health),
- * - максимальное здоровье (int healthMax),
- * - защита (int armor),
- * - урон ([]int damage)
- * - местоположение на игровой плоскости (Vector2 position)
- * <p>
- * Наследники Hero:
- * - HealerHero
- * - MeleeHero
- * - RangeHero
- * - Peasant
- * <p>
- * Методы:
- * printEnemysDistance - в качестве аргумента получает список вражеских героев (ArrayList<Hero>) и выводит в консоль расстояние до вражеских героев (void)
- * findMinDistance - в качестве аргумента получает список вражеских героев (ArrayList<Hero>) и возвращает минимальное расстояние до вражеского героя (float)
- * findNearestEnemy - в качестве аргумента получает список вражеских героев (ArrayList<Hero>) и возвращает ближайшего вражеского героя (Hero)
- */
+package OOP.sem1.TypeOfHeroes;
 
 import OOP.sem1.Interfaces.GameI;
+import OOP.sem1.Vector2;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.Random;
 
